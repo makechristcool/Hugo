@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://makechristcool.github.io/Hugo/'
 locale = 'en-us'
 title = 'Unapologetically Kind'
 theme = "PaperMod"

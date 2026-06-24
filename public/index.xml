@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Unapologetically Kind</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/Hugo/</link>
     <description>Recent content on Unapologetically Kind</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2026 18:14:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unapologetically Kind</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/Hugo/posts/my-first-post/</link>
       <pubDate>Wed, 24 Jun 2026 18:14:25 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/Hugo/posts/my-first-post/</guid>
       <description>&lt;p&gt;&lt;em&gt;They say a raccoon lives between two worlds. I never thought that description would be aimed at me — by someone from my own community.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Wait, that started way to hot and I didn&amp;rsquo;t even introduce myself. I&amp;rsquo;m Lindsey, and I don&amp;rsquo;t believe Blacks need to &amp;ldquo;Black&amp;rdquo; everything. I think our ancestors dealt with a lot more than we (modern day black people) will ever deal with.
 I told my colleague we have a lot more advantages than our predecessors and we have tools to counter racism or what we call prejudice. I was able to attend college without having the best GPA, and I work alongside people with double master&amp;rsquo;s degrees. Somehow I&amp;rsquo;m black and ended up in the same place as my white counterparts.
