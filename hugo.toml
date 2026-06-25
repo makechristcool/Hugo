@@ -2,3 +2,5 @@ baseURL = 'https://makechristcool.github.io/Hugo/'
 locale = 'en-us'
 title = 'Unapologetically Kind'
 theme = "PaperMod"
+[params]
+  description = "A blog about life, faith, and everything in between."
