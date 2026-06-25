@@ -4,3 +4,5 @@ title = 'Unapologetically Kind'
 theme = "PaperMod"
 [params]
   description = "A blog about life, faith, and everything in between."
+  homeInfoParams.Title = "Unapologetically Kind"
+  homeInfoParams.Content = "A blog about life, faith, and everything in between."
